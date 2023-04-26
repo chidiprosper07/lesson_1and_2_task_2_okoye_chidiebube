@@ -50,3 +50,12 @@ table {
 
 
 /* Write your css below here */
+
+table, th, td {
+    border: 1px solid black;
+    margin: auto;
+  }
+  
+  footer{
+	color: blue;
+  }
